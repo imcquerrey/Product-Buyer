@@ -7,5 +7,6 @@ a request to purchase the product from the seller.
 # Usage
 
 snipe.py ProductId
+
 Example:
 snipe.py 3446731
